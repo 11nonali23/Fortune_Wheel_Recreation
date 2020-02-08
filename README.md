@@ -13,12 +13,12 @@ make user understand better the design.
 
 -->I used UML for every step of our software design.
 
--->I needed to create the registration form, a menu to make user interact with the platform and the game itself.
+-->I have created the registration form, a menu to make user interact with the platform and the game itself.
 
--->I use a postgresql database to store every action of a user of the game.
+-->I used a postgresql database to store every action of a user of the game.
 
 -->I have used signleton(server), observer(player and game server) and proxy(menu server and game server) patterns.
 
--->I use STMP to send email to users and admin.
+-->I used STMP to send email to users and admin.
 
--->I use CSV files to add new Phrases to the database.
+-->I used CSV files to add new Phrases to the database.
