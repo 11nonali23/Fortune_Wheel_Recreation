@@ -1,6 +1,8 @@
 # Laboratorio_B
 This project was my second one at the university. It is a recreation of Fortune Wheel Game (Client, Server and Database).
 
+Most of the code is in Common folder.
+
 
 DESCRIPTION
 
