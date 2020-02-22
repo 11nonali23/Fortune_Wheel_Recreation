@@ -4,7 +4,7 @@ This was my second project at the university. I had to program server, client an
 Most of the code is in Common folder.
 We wrote a report in Italian to make user understand better the design.
 
-DESCRIPTION
+# DESCRIPTION
 
 The goal was to recreate the famous italian TV game named "Fortune Wheel".
 
