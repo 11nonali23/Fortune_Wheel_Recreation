@@ -1,4 +1,5 @@
-# Laboratorio_B
+# Fortune Wheel Game Recreation
+
 This was my second project at the university. I had to program server, client and database of the application.
 
 Most of the code is in Common folder.
